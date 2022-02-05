@@ -20,7 +20,9 @@
 ### 數據示意
 
 * 表格
+
 board: 每日熱文文章收集
+
 authorboard: 抓取該特定作者貼文
 
 ![](https://i.imgur.com/EYtw8jy.png)
